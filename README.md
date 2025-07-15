@@ -36,6 +36,5 @@
 - 如果遇到错误，请检查设备兼容性。
 
 ## 参考
-
 - <mcurl name="MacDirtyCow 详情" url="https://github.com/search?q=MacDirtyCow"></mcurl>
         
